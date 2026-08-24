@@ -30,9 +30,9 @@ if (session_status() === PHP_SESSION_NONE) {
 // Database Credentials (Configure as per your XAMPP or cPanel setup)
 define('DB_HOST', '127.0.0.1');
 define('DB_PORT', '3306');
-define('DB_NAME', 'db_website_monitor');
-define('DB_USER', 'root');
-define('DB_PASS', '');
+define('DB_NAME', 'synergy1_derricklim_monitoring_alert_system');
+define('DB_USER', 'synergy1_yenping');
+define('DB_PASS', 'R.zb0ZwEuGZ}*fW2');
 define('DB_CHARSET', 'utf8mb4');
 
 // Application Details
